@@ -1,0 +1,14 @@
+1.Video Feed -> Anish
+
+2.Processing Issues :
+
+	> Lag -> DL model (Larger)
+		1.Skip frames
+		2.Threading 
+
+3.Model Ready :
+	> Person Dense
+	> Water Level
+
+4.File Store :
+	> Map Plot
